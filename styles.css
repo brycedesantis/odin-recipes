@@ -12,11 +12,22 @@ h2{
     font-weight: bold;
 }
 
+h1, h2{
+    display: inline-block;
+    padding: 5px;
+}
+
 li{
     font-size: 20px;
+    margin-bottom: 5px;
 }
 
 p{
     font-size: 19px;
     font-weight: bold;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
 }
